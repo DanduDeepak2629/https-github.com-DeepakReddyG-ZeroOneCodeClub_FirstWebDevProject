@@ -1,0 +1,23 @@
+/* CSS */
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+}
+
+.header {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+}
+
+.body {
+    padding: 10px;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #ccc;
+    border: none;
+}
